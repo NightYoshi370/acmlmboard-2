@@ -96,7 +96,7 @@
            Thank you to everyone who helped with the start of Kafuka, without your support we wouldn't have got this far.<br>
            Finally, thanks goes to Acmlm for allowing us to continue working on AB2, as well as Scrydan and DJ Bouche who spent
            more single focus time than anyone else for 2.5, and 2.6.
-           <hr>3rd Party tools: <a href=\"http://code.google.com/p/google-code-prettify/\">Prettify</a></td></tr>
+           <hr>3rd Party tools: <a href=\"https://github.com/google/code-prettify/\">Prettify</a></td></tr>
            </table><br />
            $L[TBL1]>
            $L[TRh]>$L[TDh]>Dedications</td></tr>
